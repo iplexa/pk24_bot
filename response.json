@@ -1,0 +1,33 @@
+﻿{
+    "response": {
+        "data": {
+            "item": [
+                {
+                    "#value": "9B6ABF8B-0173-48E5-B0A0-83B21FCF63C5",
+                    "value": "46Kt357C"
+                },
+                {
+                    "#value": "5529DDD8-1813-441B-B712-08CE5443C18C",
+                    "value": "ЛКА"
+                },
+                {
+                    "#value": "9B6ABF8B-0173-48E5-B0A0-83B21FCF63C5",
+                    "value": "N24067347"
+                }
+            ]
+        },
+        "refs": {
+            "item": [
+                {
+                    "typeId": "5529ddd8-1813-441b-b712-08ce5443c18c",
+                    "ref": [
+                        {
+                            "id": "cf42d5bb-7cfe-44d3-967f-229145efe9f6",
+                            "__content": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
